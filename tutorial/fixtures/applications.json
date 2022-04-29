@@ -1,0 +1,33 @@
+[
+    {
+      "model": "tutorial.application",
+      "pk": 1,
+      "fields":{
+        "purchasing_address": "111 Purchase St. Austin, TX 78739",
+        "application_approved": false,
+        "agent": 3,
+        "customer": 2
+      }
+    },
+    {
+      "model": "tutorial.application",
+      "pk": 2,
+      "fields":{
+        "purchasing_address": "355 Purchase St. Athens, GA 30304",
+        "application_approved": true,
+        "agent": 1,
+        "customer": 3
+      }
+    },
+    {
+      "model": "tutorial.application",
+      "pk": 3,
+      "fields":{
+        "purchasing_address": "123 Purchasing St. Denver, CO 80014",
+        "application_approved": true,
+        "agent": 2,
+        "customer": 1
+      }
+    }
+  ]
+
